@@ -4,7 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.index.css
+.logo.svg
+.reportWebVitals.js
+.setupTest.js
+.App.test.js
 # testing
 /coverage
 
