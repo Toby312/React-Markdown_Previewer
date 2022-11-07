@@ -82,3 +82,11 @@ ul{
     transform: rotate(360deg);
   }
 }
+
+textarea{
+  max-width: 500px;
+}
+
+#preview{
+  max-width: 450px;
+}
